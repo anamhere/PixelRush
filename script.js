@@ -7,7 +7,7 @@ function playAlien() {
 }
 =======
 function playAlien() {
-  const audio = new Audio('assets/synthesize.mp3');
+  const audio = new Audio('synthesize.mp3');
   audio.play();
 }
 >>>>>>> 0c9e07952a3bdc4129533e69bb9ec35367e900a3
